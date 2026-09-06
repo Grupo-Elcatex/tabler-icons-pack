@@ -1,0 +1,14 @@
+{
+  "name": "tabler-icons-pack",
+  "version": "3.46.0",
+  "private": true,
+  "description": "Tabler Icons repackaged in the google/material-design-icons layout (SVG + multi-density PNG)",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "node update/build.mjs vendor/tabler-icons"
+  },
+  "devDependencies": {
+    "@resvg/resvg-js": "^2.6.2"
+  }
+}

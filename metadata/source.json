@@ -1,0 +1,24 @@
+{
+  "package": "@tabler/icons",
+  "version": "3.46.0",
+  "license": "MIT",
+  "homepage": "https://tabler.io/icons",
+  "repository": "https://github.com/tabler/tabler-icons",
+  "builtAt": "2026-09-06T01:37:03.162Z",
+  "png": {
+    "dps": [
+      18,
+      24,
+      36,
+      48
+    ],
+    "densities": [
+      1,
+      2,
+      4
+    ],
+    "colors": [
+      "black"
+    ]
+  }
+}
